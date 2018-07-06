@@ -23,8 +23,7 @@ README
 *컨트롤 아이는 기울이기*
 
 <u>컨트롤 유는 밑줄 ㅋ</u>
-
-![](https://github.com/fkillrra/Playground/issues/1)
+![good](https://user-images.githubusercontent.com/32171039/42396431-8cee65da-819c-11e8-9ea7-0892e5ede710.jpg)
 $$
 수식 블록 이렇게 하면 된다고 했는데 안되는가봉가?
 $$
