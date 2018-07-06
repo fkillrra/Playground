@@ -24,7 +24,7 @@ README
 
 <u>컨트롤 유는 밑줄 ㅋ</u>
 
-![](C:\F_killrra\good.jpg)
+![](https://github.com/fkillrra/Playground/issues/1)
 $$
 수식 블록 이렇게 하면 된다고 했는데 안되는가봉가?
 $$
